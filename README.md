@@ -10,6 +10,7 @@ using Gaussian kernel, without using any library except c++ STL, for better unde
 
 The aim is to predict next year rainfall based on previous year data. 
 The dataset has been made available by Government of India and can be found at the following link: https://data.gov.in/catalog/district-rainfall-normal-mm-monthly-seasonal-and-annual-data-period-1951-2000
+a copy is included here as the CSV file.
 
 
 IMPLEMENTATION DETAILS:
