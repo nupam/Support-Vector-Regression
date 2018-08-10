@@ -18,8 +18,8 @@ A model is trained is trained for each state, for each state to predict the upco
 Method used:
 1.    Data preprocessing:            
         The missing data points are filled by the average rainfall of the month for the given state.
-        Then a feature matrix is prepared by normalising the columns of the matrix, month by month.
-        Gaussian kernel is then applied.
+        Then the data matrix is prepared by normalising the columns of the matrix, month by month.
+        Then a feature matrix is generated using the Gaussian kernel, for further analysis purpose.
 
 2.    Training of SVR:
         The SVR is trained by gradient decent using squared error as cost function, with proper normalisation.
