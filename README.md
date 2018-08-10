@@ -9,7 +9,7 @@ The dataset has been made available by Government of India and can be found at t
 A model is trained is tarained for each state, for each state to predict the upcoming year rainfall.
 
 Method use:
-    At first data is prepocessed
+    Data prepocessing:
         The missing data points are filled by the average rainfall of the month for the given state.
         Then a feature matrix is prepared by normalising the columns of the matrix, month by month.
         Gaussian kernel is then applied.
