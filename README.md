@@ -23,7 +23,7 @@ Method used:
         Then a feature matrix is generated using the Gaussian kernel, for further analysis purpose.
 
 2.    Training of SVR:
-        The SVR is trained by gradient decent using squared error as cost function, with proper normalisation.
+        The SVR is trained by gradient decent, with proper normalisation.
         The trained model is then used to predict the next year rainfall and value is returned as a list, month-wise, consecutively.
 3.    Visualizing data:
         A python source file is also included for graphical plotting of the data provided and predicted value.
