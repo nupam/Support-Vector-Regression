@@ -2,7 +2,7 @@
 
 The Support Vector Regression (SVR) uses the same principles as the SVM for classification, with only a few minor differences. However, the main idea is always the same: to minimize error, individualizing the hyperplane which maximizes the margin, keeping in mind that part of the error is tolerated.
 
-
+vjidjdhka
 
 
 The repository contains an implementation of non-linear support vector regression,
